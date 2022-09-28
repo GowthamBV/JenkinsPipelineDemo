@@ -25,7 +25,7 @@ public class AssertionsExamples {
 
     @Test
     public void test4() {
-        Assert.assertTrue(true, "matching the expected condition");
+        Assert.assertTrue(true, "matching the expected conditionn");
     }
 
     @Test
